@@ -1,3 +1,3 @@
 # diff-practis
 git練習用
-Staging areaで変更
+複数ファイル練習用のために変更
